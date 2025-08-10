@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "*.js", "use": "@vercel/node" }
+  ],
+  "routes": [
+    { "src": "/asif", "dest": "/asif.js" },
+    { "src": "/zubair", "dest": "/zubair.js" },
+    { "src": "/future1", "dest": "/future1.js" }
+  ]
+}
