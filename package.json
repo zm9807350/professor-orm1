@@ -1,8 +1,8 @@
 {
-  "name": "vercel-form-multi",
+  "name": "professor-backendform",
   "version": "1.0.0",
-  "description": "Separate API files for each form route using Nodemailer SMTP",
+  "type": "module",
   "dependencies": {
-    "nodemailer": "^6.9.3"
+    "nodemailer": "^6.9.8"
   }
 }
