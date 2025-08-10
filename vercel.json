@@ -7,5 +7,6 @@
     { "src": "/asif", "dest": "/asif.js" },
     { "src": "/zubair", "dest": "/zubair.js" },
     { "src": "/future1", "dest": "/future1.js" }
+     { "src": "/asifpass", "dest": "/asifpass.js" }
   ]
 }
