@@ -1,0 +1,8 @@
+{
+  "name": "vercel-form-multi",
+  "version": "1.0.0",
+  "description": "Separate API files for each form route using Nodemailer SMTP",
+  "dependencies": {
+    "nodemailer": "^6.9.3"
+  }
+}
